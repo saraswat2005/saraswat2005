@@ -6,7 +6,11 @@ Welcome to the Tic-Tac-Toe game for two players! This simple yet fun web-based v
 Simple and clean UI: Easy to navigate for anyone familiar with the game.
 Responsive design: Play on any device, be it desktop, tablet, or mobile.
 Real-time gameplay updates: Players can see the board update live as they play.
+
 #🛠️ Tech Stack
+
 1.HTML for structure
+
 2.CSS for styling
+
 3.JavaScript for game logic
