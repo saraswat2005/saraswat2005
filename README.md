@@ -11,6 +11,6 @@ Real-time gameplay updates: Players can see the board update live as they play.
 
 1.HTML for structure
 
-2.CS for styling
+2.CSS for styling
 
 3.JavaScript for game logics
