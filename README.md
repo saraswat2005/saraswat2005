@@ -9,7 +9,7 @@ Real-time gameplay updates: Players can see the board update live as they play.
 
 🛠️ Tech Stack
 
-1.HTML for structur
+1.HTML for structure
 
 2.CSS for styling
 
