@@ -7,7 +7,7 @@ Simple and clean UI: Easy to navigate for anyone familiar with the game.
 Responsive design: Play on any device, be it desktop, tablet, or mobile.
 Real-time gameplay updates: Players can see the board update live as they play.
 
-🛠️ Tech Stack
+🛠️ Tech
 
 1.HTML for structure
 
