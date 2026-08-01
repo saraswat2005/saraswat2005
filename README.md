@@ -3,7 +3,7 @@ Welcome to the Tic-Tac-Toe game for two players! This simple yet fun web-based v
 
 🎮 Features
 2-player manual mode: No AI; players alternate turns.
-Simple and clean UI: Easy to navigate for anyone familiar with the game
+Simple and clean UI: Easy to navigate for anyone familiar with the game.
 Responsive design: Play on any device, be it desktop, tablet, or mobile.
 Real-time gameplay updates: Players can see the board update live as they play.
 
