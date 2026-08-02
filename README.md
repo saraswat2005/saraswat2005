@@ -13,4 +13,4 @@ Real-time gameplay updates: Players can see the board update live as they play.
 
 2.CSS for styling.
 
-3.JavaScript for game logics
+3.JavaScript for game logics.
